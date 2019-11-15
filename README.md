@@ -1,4 +1,4 @@
-# GoogleFlights to Email
+# ✈️ Google Flights to Email ✈️
 A bookmarklet to display data from Google Flights, into a nicely formatted email.
 
 ## Why
