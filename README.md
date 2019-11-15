@@ -15,3 +15,8 @@ This bookmarklet is useful for anyone who work with Flights, or who regularly ne
 🛫 Departure Amsterdam Airport Schiphol (AMS) 05 déc. 13:55
 
 🛬 Arrival Paris-Charles De Gaulle (CDG) 05 déc. 15:15
+
+
+## Credit
+Code is largely imported from the original projet: https://github.com/gschaer/GoogleFlightsExport
+by Guillaume Schaer
